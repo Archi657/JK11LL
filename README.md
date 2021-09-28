@@ -1,10 +1,12 @@
-<h3 align="center">No use in saying what is done is done 'cause it's never enough</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Julian </h1>
+
+<h3 align="center">No use in saying what is done is done 'cause it's never enough to learn more </h3>
 👨‍💻 Learning back-end development 
 
 🚀 Solving for fun at [CODEFORCE](https://codeforces.com/profile/JK11LL) 
 <a href="https://codeforces.com/profile/jk11ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jk11ll" height="30" width="40" /></a>
 
-# Technologies 
+<h3 align="left">Technologies</h3>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -17,3 +19,9 @@
 
 
 
+<a href="https://github.com/JK11LL/github-readme-activity-graph"><img alt="JK11LL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JK11LL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=JK11LL">
+</a>
