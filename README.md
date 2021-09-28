@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Julian </h1>
 
-<h3 align="center">No use in saying what is done is done 'cause it's never enough to learn more </h3>
+<h3 align="center">No use in saying what is done is done 'cause it's never enough </h3>
 👨‍💻 Learning back-end development 
 
 🚀 Solving for fun at [CODEFORCE](https://codeforces.com/profile/JK11LL) 
