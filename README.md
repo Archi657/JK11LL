@@ -1,10 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Julian </h1>
 
-<h3 align="center">No use in saying what is done is done 'cause it's never enough </h3>
-👨‍💻 Learning back-end development 
+<h3 align="center">No use in saying what is done is done 'cause it's never enough to learn more </h3>
+
+🔭 Looking to learn more everyday, and understand how everything works. 
+
+👨‍💻 Learning back-end development. 
 
 🚀 Solving for fun at [CODEFORCE](https://codeforces.com/profile/JK11LL) 
 <a href="https://codeforces.com/profile/jk11ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jk11ll" height="30" width="40" /></a>
+ 
 
 <h3 align="left">Learning Technologies</h3>
 
