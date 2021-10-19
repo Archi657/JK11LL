@@ -15,7 +15,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK11LL&layout=compact&theme=dark)](https://github.com/JK11LL/github-readme-stats)
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JK11LL">
-</a>
