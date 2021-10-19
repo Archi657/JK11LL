@@ -3,7 +3,7 @@
 🚀 Solving for fun at [CODEFORCE](https://codeforces.com/profile/JK11LL) 
 <a href="https://codeforces.com/profile/jk11ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jk11ll" height="30" width="40" /></a>💻
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">Learning Technologies</h3>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
